@@ -66,13 +66,13 @@
 .sec{
     width: 100%;
     height: 900px;
-background-image: url("https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6B49sRNBG3UNrxVHuPMtqc/3b9cab25b0f3813b0d59654562a34dfe/ubi-homescreen-afop-keyart-v1.jpg");
-background-color: #cccccc; /* if the image is unavailable */
-background-position: center; /* Center the image */
-background-repeat: no-repeat, repeat;
-background-size: cover;
-position: relative;
-z-index: 1; 
+    background-image: url("https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6B49sRNBG3UNrxVHuPMtqc/3b9cab25b0f3813b0d59654562a34dfe/ubi-homescreen-afop-keyart-v1.jpg");
+    background-color: #cccccc; /* if the image is unavailable */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 1; 
 }
 
 .sec::after {
@@ -133,13 +133,13 @@ banner-component{
 .sec2{
     width: 100%;
     height: 400px;
-background-image: url("https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7u0o3i84kn2M0zywawe5fA/829fa9d992cc5772d4b009b122dbef07/ubisoft-evergreen_full_banner-swo_no_logo-early-access.jpg");
-background-color: #cccccc; /* if the image is unavailable */
-background-position: center; /* Center the image */
-background-repeat: no-repeat, repeat;
-background-size: cover;
-color: white;
-}
+    background-image: url("https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7u0o3i84kn2M0zywawe5fA/829fa9d992cc5772d4b009b122dbef07/ubisoft-evergreen_full_banner-swo_no_logo-early-access.jpg");
+    background-color: #cccccc; /* if the image is unavailable */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    color: white;
+    }
 
 .sec2 div{
     gap: 2rem;
@@ -194,12 +194,12 @@ bannertwo-component{
 /* new's sec */
 
 .last_news{
-padding:2rem;
-display: flex;
-justify-content: center;
-align-items: center;
-flex-direction: column;
-gap: 2rem;
+    padding:2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
 }
 
 .last_news div{
@@ -246,7 +246,7 @@ sec5{
     justify-content: center;
     align-items: center;
     width: 100%;
-    height: 700px;
+    height: 600px;
     background-color: #eeeeee;
     padding: 5rem;
 }
@@ -274,12 +274,12 @@ sec6{
 .sec6_img{
     width: 40%;
     height: 400px;
-background-image: url("https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3GuXXIwqLXe9SOVWAElIX1/3f6ef0ee0af05c4db2b96fe3f7e71892/2023_06_Multi-Brands.png");
-background-color: #cccccc; /* if the image is unavailable */
-background-position: center; /* Center the image */
-background-repeat: no-repeat, repeat;
-background-size: cover;
-color: white;
+    background-image: url("https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3GuXXIwqLXe9SOVWAElIX1/3f6ef0ee0af05c4db2b96fe3f7e71892/2023_06_Multi-Brands.png");
+    background-color: #cccccc; /* if the image is unavailable */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    color: white;
 }
 
 .sec6_txt{
@@ -310,12 +310,12 @@ sec7{
 .sec7_img{
     width: 30%;
     height: 200px;
-background-image: url("https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6SfvkXTESPJr6U4faPWqfA/dce1ef7c7faeba75c4fa58e172aaaa20/ubisoft-connect-devices-visual-mockup.png");
-background-color: #cccccc00; /* if the image is unavailable */
-background-position: center; /* Center the image */
-background-repeat: no-repeat, repeat;
-background-size: cover;
-color: white;
+    background-image: url("https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6SfvkXTESPJr6U4faPWqfA/dce1ef7c7faeba75c4fa58e172aaaa20/ubisoft-connect-devices-visual-mockup.png");
+    background-color: #cccccc00; /* if the image is unavailable */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    color: white;
 }
 
 .sec7_txt{
